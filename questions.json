@@ -1,0 +1,3341 @@
+{
+  "pages": [
+    {
+      "id": "page-001",
+      "items": [
+        {
+          "id": "q-001",
+          "type": "question-multiple-choice",
+          "question": "When evaluating the transformation of raw data into actionable security insights, which characteristic primarily distinguishes intelligence from information?",
+          "answers": [
+            {
+              "id": "a-001-a",
+              "answer": "Volume of data collected from multiple sources"
+            },
+            {
+              "id": "a-001-b",
+              "answer": "Analysis and contextualization for decision-making"
+            },
+            {
+              "id": "a-001-c",
+              "answer": "Encryption applied to protect confidentiality"
+            },
+            {
+              "id": "a-001-d",
+              "answer": "Speed of data transmission across networks"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-002",
+      "items": [
+        {
+          "id": "q-002",
+          "type": "question-multiple-choice",
+          "question": "In intelligence terminology, what does the term 'requirement' specifically represent?",
+          "answers": [
+            {
+              "id": "a-002-a",
+              "answer": "Hardware specifications for detection systems"
+            },
+            {
+              "id": "a-002-b",
+              "answer": "Formal request defining intelligence needs"
+            },
+            {
+              "id": "a-002-c",
+              "answer": "Minimum staff needed for operations center"
+            },
+            {
+              "id": "a-002-d",
+              "answer": "Regulatory compliance documentation"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-003",
+      "items": [
+        {
+          "id": "q-003",
+          "type": "question-free-text",
+          "question": "What is the raw, unprocessed facts before analysis called in intelligence terminology?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-004",
+      "items": [
+        {
+          "id": "q-004",
+          "type": "question-multiple-choice",
+          "question": "Traditional security approaches differ from intelligence-driven security primarily in their:",
+          "answers": [
+            {
+              "id": "a-004-a",
+              "answer": "Reliance on signature-based detection only"
+            },
+            {
+              "id": "a-004-b",
+              "answer": "Focus on compliance over risk assessment"
+            },
+            {
+              "id": "a-004-c",
+              "answer": "Reactive posture versus predictive analysis"
+            },
+            {
+              "id": "a-004-d",
+              "answer": "Use of proprietary versus open standards"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-005",
+      "items": [
+        {
+          "id": "q-005",
+          "type": "question-multiple-choice",
+          "question": "Which intelligence type focuses on long-term organizational planning and adversary capabilities assessment?",
+          "answers": [
+            {
+              "id": "a-005-a",
+              "answer": "Technical intelligence"
+            },
+            {
+              "id": "a-005-b",
+              "answer": "Tactical intelligence"
+            },
+            {
+              "id": "a-005-c",
+              "answer": "Operational intelligence"
+            },
+            {
+              "id": "a-005-d",
+              "answer": "Strategic intelligence"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-006",
+      "items": [
+        {
+          "id": "q-006",
+          "type": "question-multiple-choice",
+          "question": "When intelligence supports immediate security operations and incident response activities, it is classified as:",
+          "answers": [
+            {
+              "id": "a-006-a",
+              "answer": "Strategic intelligence"
+            },
+            {
+              "id": "a-006-b",
+              "answer": "Tactical intelligence"
+            },
+            {
+              "id": "a-006-c",
+              "answer": "Competitive intelligence"
+            },
+            {
+              "id": "a-006-d",
+              "answer": "Business intelligence"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-007",
+      "items": [
+        {
+          "id": "q-007",
+          "type": "question-multiple-choice",
+          "question": "Based on the workflow depicted, what is the primary objective of Cyber Threat Intelligence?",
+          "answers": [
+            {
+              "id": "a-007-a",
+              "answer": "Collecting maximum volume of threat data"
+            },
+            {
+              "id": "a-007-b",
+              "answer": "Understanding adversary tactics and motivations"
+            },
+            {
+              "id": "a-007-c",
+              "answer": "Automating all security response actions"
+            },
+            {
+              "id": "a-007-d",
+              "answer": "Replacing traditional security controls"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-008",
+      "items": [
+        {
+          "id": "q-008",
+          "type": "question-free-text",
+          "question": "What is the first phase in the Threat Intelligence lifecycle where stakeholder needs are identified?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-009",
+      "items": [
+        {
+          "id": "q-009",
+          "type": "question-multiple-choice",
+          "question": "During which phase of the intelligence lifecycle is raw data transformed into finished intelligence products?",
+          "answers": [
+            {
+              "id": "a-009-a",
+              "answer": "Collection"
+            },
+            {
+              "id": "a-009-b",
+              "answer": "Processing"
+            },
+            {
+              "id": "a-009-c",
+              "answer": "Analysis"
+            },
+            {
+              "id": "a-009-d",
+              "answer": "Dissemination"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-010",
+      "items": [
+        {
+          "id": "q-010",
+          "type": "question-multiple-choice",
+          "question": "Which framework provides a comprehensive knowledge base of adversary tactics and techniques?",
+          "answers": [
+            {
+              "id": "a-010-a",
+              "answer": "NIST Cybersecurity Framework"
+            },
+            {
+              "id": "a-010-b",
+              "answer": "MITRE ATT&CK"
+            },
+            {
+              "id": "a-010-c",
+              "answer": "ISO 27001"
+            },
+            {
+              "id": "a-010-d",
+              "answer": "COBIT 5"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-011",
+      "items": [
+        {
+          "id": "q-011",
+          "type": "question-multiple-choice",
+          "question": "An organization currently consumes third-party feeds without internal analysis capabilities. According to maturity models, this represents which level?",
+          "answers": [
+            {
+              "id": "a-011-a",
+              "answer": "Advanced level with predictive capabilities"
+            },
+            {
+              "id": "a-011-b",
+              "answer": "Initial or basic consumption stage"
+            },
+            {
+              "id": "a-011-c",
+              "answer": "Optimized level with continuous improvement"
+            },
+            {
+              "id": "a-011-d",
+              "answer": "Non-existent intelligence capability"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-012",
+      "items": [
+        {
+          "id": "q-012",
+          "type": "question-multiple-choice",
+          "question": "When developing an intelligence generation strategy, which approach emphasizes understanding specific adversary campaigns?",
+          "answers": [
+            {
+              "id": "a-012-a",
+              "answer": "Asset-centric intelligence"
+            },
+            {
+              "id": "a-012-b",
+              "answer": "Vulnerability-focused intelligence"
+            },
+            {
+              "id": "a-012-c",
+              "answer": "Threat-actor-centric intelligence"
+            },
+            {
+              "id": "a-012-d",
+              "answer": "Compliance-driven intelligence"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-013",
+      "items": [
+        {
+          "id": "q-013",
+          "type": "question-multiple-choice",
+          "question": "What is a core responsibility of a threat intelligence analyst that goes beyond data collection?",
+          "answers": [
+            {
+              "id": "a-013-a",
+              "answer": "Network infrastructure maintenance"
+            },
+            {
+              "id": "a-013-b",
+              "answer": "Firewall rule configuration"
+            },
+            {
+              "id": "a-013-c",
+              "answer": "Contextualized threat assessment and reporting"
+            },
+            {
+              "id": "a-013-d",
+              "answer": "User access provisioning"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-014",
+      "items": [
+        {
+          "id": "q-014",
+          "type": "question-free-text",
+          "question": "What is the acronym for platforms designed to aggregate, correlate, and manage threat intelligence data?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-015",
+      "items": [
+        {
+          "id": "q-015",
+          "type": "question-multiple-choice",
+          "question": "When implementing threat intelligence in cloud environments, which unique challenge must be addressed?",
+          "answers": [
+            {
+              "id": "a-015-a",
+              "answer": "Shared responsibility model for security"
+            },
+            {
+              "id": "a-015-b",
+              "answer": "Elimination of all on-premises controls"
+            },
+            {
+              "id": "a-015-c",
+              "answer": "Inability to collect cloud-based indicators"
+            },
+            {
+              "id": "a-015-d",
+              "answer": "Complete lack of API integration options"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-016",
+      "items": [
+        {
+          "id": "q-016",
+          "type": "question-multiple-choice",
+          "question": "Emerging trends in threat intelligence increasingly emphasize which capability?",
+          "answers": [
+            {
+              "id": "a-016-a",
+              "answer": "Manual analysis exclusively"
+            },
+            {
+              "id": "a-016-b",
+              "answer": "Machine learning and automation"
+            },
+            {
+              "id": "a-016-c",
+              "answer": "Reduced information sharing"
+            },
+            {
+              "id": "a-016-d",
+              "answer": "Isolation from incident response"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-017",
+      "items": [
+        {
+          "id": "q-017",
+          "type": "question-multiple-choice",
+          "question": "A professional seeking to specialize in analyzing nation-state campaigns would most likely pursue which career path?",
+          "answers": [
+            {
+              "id": "a-017-a",
+              "answer": "Network administrator"
+            },
+            {
+              "id": "a-017-b",
+              "answer": "Strategic threat intelligence analyst"
+            },
+            {
+              "id": "a-017-c",
+              "answer": "Help desk technician"
+            },
+            {
+              "id": "a-017-d",
+              "answer": "Database administrator"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-018",
+      "items": [
+        {
+          "id": "q-018",
+          "type": "question-multiple-choice",
+          "question": "Which category of cyber threat specifically targets theft of sensitive organizational data?",
+          "answers": [
+            {
+              "id": "a-018-a",
+              "answer": "Availability attacks"
+            },
+            {
+              "id": "a-018-b",
+              "answer": "Cryptojacking activities"
+            },
+            {
+              "id": "a-018-c",
+              "answer": "Defacement campaigns"
+            },
+            {
+              "id": "a-018-d",
+              "answer": "Espionage operations "
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-019",
+      "items": [
+        {
+          "id": "q-019",
+          "type": "question-multiple-choice",
+          "question": "When an attack aims to disrupt business operations rather than steal data, the primary objective is:",
+          "answers": [
+            {
+              "id": "a-019-a",
+              "answer": "Denial of service "
+            },
+            {
+              "id": "a-019-b",
+              "answer": "Data exfiltration"
+            },
+            {
+              "id": "a-019-c",
+              "answer": "Credential harvesting"
+            },
+            {
+              "id": "a-019-d",
+              "answer": "Reconnaissance only"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-020",
+      "items": [
+        {
+          "id": "q-020",
+          "type": "question-free-text",
+          "question": "What is the acronym for sophisticated, long-term targeted attacks typically conducted by nation-states?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-021",
+      "items": [
+        {
+          "id": "fb130665-3c5e-48cf-97fd-20cfcc9594fc",
+          "type": "text",
+          "markdown": "<img\n  src=\"https://images.coursestack.com/92f9ada1-f557-450f-a21f-8ae56c42bb0f/ead59766-5c93-4836-8a04-898035ece8c5\"\n  alt=\"\"\n  width=\"\"\n  height=\"\"\n/>\n"
+        },
+        {
+          "id": "q-021",
+          "type": "question-multiple-choice",
+          "question": " In the lifecycle shown, what phase typically follows initial compromise?",
+          "answers": [
+            {
+              "id": "a-021-a",
+              "answer": "Immediate data exfiltration"
+            },
+            {
+              "id": "a-021-b",
+              "answer": "Establishment of persistence"
+            },
+            {
+              "id": "a-021-c",
+              "answer": "Public disclosure"
+            },
+            {
+              "id": "a-021-d",
+              "answer": "System destruction"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-022",
+      "items": [
+        {
+          "id": "q-022",
+          "type": "question-multiple-choice",
+          "question": "In the Cyber Kill Chain, which phase involves the adversary creating weaponized deliverable payload?",
+          "answers": [
+            {
+              "id": "a-022-a",
+              "answer": "Reconnaissance"
+            },
+            {
+              "id": "a-022-b",
+              "answer": "Weaponization"
+            },
+            {
+              "id": "a-022-c",
+              "answer": "Installation"
+            },
+            {
+              "id": "a-022-d",
+              "answer": "Actions on objectives"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-023",
+      "items": [
+        {
+          "id": "q-023",
+          "type": "question-multiple-choice",
+          "question": "The MITRE ATT&CK framework organizes adversary behaviors into which primary categories?",
+          "answers": [
+            {
+              "id": "a-023-a",
+              "answer": "Tactics, Techniques, and Procedures"
+            },
+            {
+              "id": "a-023-b",
+              "answer": "People, Process, and Technology"
+            },
+            {
+              "id": "a-023-c",
+              "answer": "Confidentiality, Integrity, and Availability"
+            },
+            {
+              "id": "a-023-d",
+              "answer": "Prevention, Detection, and Response"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-024",
+      "items": [
+        {
+          "id": "q-024",
+          "type": "question-multiple-choice",
+          "question": "In the Diamond Model of intrusion analysis, which component represents the target of the adversary's actions?",
+          "answers": [
+            {
+              "id": "a-024-a",
+              "answer": "Infrastructure"
+            },
+            {
+              "id": "a-024-b",
+              "answer": "Capability"
+            },
+            {
+              "id": "a-024-c",
+              "answer": "Victim"
+            },
+            {
+              "id": "a-024-d",
+              "answer": "Adversary"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-025",
+      "items": [
+        {
+          "id": "q-025",
+          "type": "question-free-text",
+          "question": "What is the acronym for observable artifacts that indicate potential compromise?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-026",
+      "items": [
+        {
+          "id": "q-026",
+          "type": "question-multiple-choice",
+          "question": "Which IoC category would include mutex names and registry key modifications?",
+          "answers": [
+            {
+              "id": "a-026-a",
+              "answer": "Network indicators"
+            },
+            {
+              "id": "a-026-b",
+              "answer": "Host-based indicators"
+            },
+            {
+              "id": "a-026-c",
+              "answer": "Behavioral indicators"
+            },
+            {
+              "id": "a-026-d",
+              "answer": "Email indicators"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-027",
+      "items": [
+        {
+          "id": "26c8ab93-9cbb-4ffa-a278-fe51afd1ca47",
+          "type": "text",
+          "markdown": "<img\n  src=\"https://images.coursestack.com/92f9ada1-f557-450f-a21f-8ae56c42bb0f/59690189-b742-4dd3-b7a5-579372a3690b\"\n  alt=\"\"\n  width=\"\"\n  height=\"\"\n/>\n"
+        },
+        {
+          "id": "q-027",
+          "type": "question-multiple-choice",
+          "question": "According to the Pyramid of Pain, which indicator causes the most disruption to adversaries when detected?",
+          "answers": [
+            {
+              "id": "a-027-a",
+              "answer": "Hash values"
+            },
+            {
+              "id": "a-027-b",
+              "answer": "IP addresses"
+            },
+            {
+              "id": "a-027-c",
+              "answer": "TTPs"
+            },
+            {
+              "id": "a-027-d",
+              "answer": "Domain names"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-028",
+      "items": [
+        {
+          "id": "q-028",
+          "type": "question-multiple-choice",
+          "question": "When conducting threat analysis, correlating multiple data sources to identify patterns represents which analytical approach?",
+          "answers": [
+            {
+              "id": "a-028-a",
+              "answer": "Fusion analysis"
+            },
+            {
+              "id": "a-028-b",
+              "answer": "Isolated review"
+            },
+            {
+              "id": "a-028-c",
+              "answer": "Single-source dependency"
+            },
+            {
+              "id": "a-028-d",
+              "answer": "Binary classification"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-029",
+      "items": [
+        {
+          "id": "q-029",
+          "type": "question-multiple-choice",
+          "question": "A successful threat intelligence program requires which foundational element from organizational leadership?",
+          "answers": [
+            {
+              "id": "a-029-a",
+              "answer": "Executive sponsorship and resource allocation"
+            },
+            {
+              "id": "a-029-b",
+              "answer": "Complete outsourcing to third parties"
+            },
+            {
+              "id": "a-029-c",
+              "answer": "Unlimited budget without oversight"
+            },
+            {
+              "id": "a-029-d",
+              "answer": "Isolation from other security functions"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-030",
+      "items": [
+        {
+          "id": "q-030",
+          "type": "question-multiple-choice",
+          "question": "When analyzing intelligence requirements, stakeholders from which function would prioritize understanding attack vectors against applications?",
+          "answers": [
+            {
+              "id": "a-030-a",
+              "answer": "Human Resources"
+            },
+            {
+              "id": "a-030-b",
+              "answer": "Application Security team"
+            },
+            {
+              "id": "a-030-c",
+              "answer": "Facilities management"
+            },
+            {
+              "id": "a-030-d",
+              "answer": "Marketing department"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-031",
+      "items": [
+        {
+          "id": "q-031",
+          "type": "question-multiple-choice",
+          "question": "During program planning, defining what intelligence will NOT cover is important for:",
+          "answers": [
+            {
+              "id": "a-031-a",
+              "answer": "Budget expansion justification"
+            },
+            {
+              "id": "a-031-b",
+              "answer": "Setting clear scope boundaries"
+            },
+            {
+              "id": "a-031-c",
+              "answer": "Reducing team accountability"
+            },
+            {
+              "id": "a-031-d",
+              "answer": "Eliminating all external collaboration"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-032",
+      "items": [
+        {
+          "id": "q-032",
+          "type": "question-multiple-choice",
+          "question": "Direction and review processes in an intelligence program ensure:",
+          "answers": [
+            {
+              "id": "a-032-a",
+              "answer": "Micromanagement of daily activities"
+            },
+            {
+              "id": "a-032-b",
+              "answer": "Complete automation without oversight"
+            },
+            {
+              "id": "a-032-c",
+              "answer": "Elimination of all external intelligence"
+            },
+            {
+              "id": "a-032-d",
+              "answer": "Alignment with organizational priorities "
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-033",
+      "items": [
+        {
+          "id": "q-033",
+          "type": "question-free-text",
+          "question": "What prioritization technique uses categories: Must have, Should have, Could have, Won't have?",
+          "match_type": "regex",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-034",
+      "items": [
+        {
+          "id": "q-034",
+          "type": "question-multiple-choice",
+          "question": "Which management support is most critical when building a threat intelligence team?",
+          "answers": [
+            {
+              "id": "a-034-a",
+              "answer": "Approval for unlimited headcount"
+            },
+            {
+              "id": "a-034-b",
+              "answer": "Budget and strategic backing"
+            },
+            {
+              "id": "a-034-c",
+              "answer": "Exemption from all policies"
+            },
+            {
+              "id": "a-034-d",
+              "answer": "Complete independence from security"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-035",
+      "items": [
+        {
+          "id": "q-035",
+          "type": "question-multiple-choice",
+          "question": "An effective intelligence team structure should include which diverse skill set?",
+          "answers": [
+            {
+              "id": "a-035-a",
+              "answer": "Only malware reverse engineers"
+            },
+            {
+              "id": "a-035-b",
+              "answer": "Exclusively external consultants"
+            },
+            {
+              "id": "a-035-c",
+              "answer": "Analysts, collectors, and technical specialists"
+            },
+            {
+              "id": "a-035-d",
+              "answer": "Only entry-level personnel"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-036",
+      "items": [
+        {
+          "id": "q-036",
+          "type": "question-multiple-choice",
+          "question": "Clearly defined roles and responsibilities within the intelligence team prevent:",
+          "answers": [
+            {
+              "id": "a-036-a",
+              "answer": "Skill development opportunities"
+            },
+            {
+              "id": "a-036-b",
+              "answer": "Cross-functional collaboration"
+            },
+            {
+              "id": "a-036-c",
+              "answer": "Duplication of effort and confusion"
+            },
+            {
+              "id": "a-036-d",
+              "answer": "Career advancement pathways"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-037",
+      "items": [
+        {
+          "id": "q-037",
+          "type": "question-multiple-choice",
+          "question": "Rules of engagement for intelligence operations define:",
+          "answers": [
+            {
+              "id": "a-037-a",
+              "answer": "Acceptable collection methods and boundaries"
+            },
+            {
+              "id": "a-037-b",
+              "answer": "Unlimited access to all systems"
+            },
+            {
+              "id": "a-037-c",
+              "answer": "Exemption from legal requirements"
+            },
+            {
+              "id": "a-037-d",
+              "answer": "Marketing communication strategies"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-038",
+      "items": [
+        {
+          "id": "q-038",
+          "type": "question-multiple-choice",
+          "question": "When planning program scope, which consideration ensures realistic deliverables?",
+          "answers": [
+            {
+              "id": "a-038-a",
+              "answer": "Promising comprehensive coverage immediately"
+            },
+            {
+              "id": "a-038-b",
+              "answer": "Resource and capability assessment"
+            },
+            {
+              "id": "a-038-c",
+              "answer": "Ignoring organizational constraints"
+            },
+            {
+              "id": "a-038-d",
+              "answer": "Copying competitor programs exactly"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-039",
+      "items": [
+        {
+          "id": "q-039",
+          "type": "question-multiple-choice",
+          "question": "A project charter for threat intelligence should document:",
+          "answers": [
+            {
+              "id": "a-039-a",
+              "answer": "Individual performance metrics only"
+            },
+            {
+              "id": "a-039-b",
+              "answer": "Objectives, scope, and stakeholders"
+            },
+            {
+              "id": "a-039-c",
+              "answer": "Vendor marketing materials"
+            },
+            {
+              "id": "a-039-d",
+              "answer": "Unrelated business strategies"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-040",
+      "items": [
+        {
+          "id": "q-040",
+          "type": "question-free-text",
+          "question": "What is the practice of exchanging threat information with trusted partners called?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-041",
+      "items": [
+        {
+          "id": "q-041",
+          "type": "question-multiple-choice",
+          "question": "When sharing threat intelligence, which partner type typically provides industry-specific threat insights?",
+          "answers": [
+            {
+              "id": "a-041-a",
+              "answer": "Competitors in same market"
+            },
+            {
+              "id": "a-041-b",
+              "answer": "Information Sharing and Analysis Centers (ISACs)"
+            },
+            {
+              "id": "a-041-c",
+              "answer": "General public forums"
+            },
+            {
+              "id": "a-041-d",
+              "answer": "Unvetted social media groups"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-042",
+      "items": [
+        {
+          "id": "q-042",
+          "type": "question-multiple-choice",
+          "question": "Which regulation or framework governs cross-border threat intelligence sharing in Europe?",
+          "answers": [
+            {
+              "id": "a-042-a",
+              "answer": "GDPR and NIS Directive"
+            },
+            {
+              "id": "a-042-b",
+              "answer": "HIPAA exclusively"
+            },
+            {
+              "id": "a-042-c",
+              "answer": "SOX compliance only"
+            },
+            {
+              "id": "a-042-d",
+              "answer": "PCI-DSS requirements"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-043",
+      "items": [
+        {
+          "id": "q-043",
+          "type": "question-multiple-choice",
+          "question": "Effective data source management requires which ongoing activity?",
+          "answers": [
+            {
+              "id": "a-043-a",
+              "answer": "Accepting all sources without validation"
+            },
+            {
+              "id": "a-043-b",
+              "answer": "Quality assessment and relevance evaluation"
+            },
+            {
+              "id": "a-043-c",
+              "answer": "Relying solely on free sources"
+            },
+            {
+              "id": "a-043-d",
+              "answer": "Ignoring source reliability metrics"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-044",
+      "items": [
+        {
+          "id": "q-044",
+          "type": "question-multiple-choice",
+          "question": "What characteristic distinguishes premium threat intelligence feeds from open-source feeds?",
+          "answers": [
+            {
+              "id": "a-044-a",
+              "answer": "Premium feeds are always less accurate"
+            },
+            {
+              "id": "a-044-b",
+              "answer": "Premium feeds typically offer curated, context-rich data"
+            },
+            {
+              "id": "a-044-c",
+              "answer": "Open-source feeds are universally superior"
+            },
+            {
+              "id": "a-044-d",
+              "answer": "Premium feeds contain only historical data"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-045",
+      "items": [
+        {
+          "id": "q-045",
+          "type": "question-multiple-choice",
+          "question": "During threat data acquisition, which factor should be evaluated for each source?",
+          "answers": [
+            {
+              "id": "a-045-a",
+              "answer": "Timeliness, accuracy, and relevance"
+            },
+            {
+              "id": "a-045-b",
+              "answer": "Vendor marketing claims only"
+            },
+            {
+              "id": "a-045-c",
+              "answer": "Lowest cost exclusively"
+            },
+            {
+              "id": "a-045-d",
+              "answer": "Popularity in social media"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-046",
+      "items": [
+        {
+          "id": "q-046",
+          "type": "question-free-text",
+          "question": "What is the acronym for intelligence gathered from publicly available sources?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-047",
+      "items": [
+        {
+          "id": "q-047",
+          "type": "question-multiple-choice",
+          "question": "Which OSINT source category would include monitoring underground forums for threat actor discussions?",
+          "answers": [
+            {
+              "id": "a-047-a",
+              "answer": "Government publications"
+            },
+            {
+              "id": "a-047-b",
+              "answer": "Dark web and closed communities"
+            },
+            {
+              "id": "a-047-c",
+              "answer": "Corporate press releases"
+            },
+            {
+              "id": "a-047-d",
+              "answer": "Academic journals"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-048",
+      "items": [
+        {
+          "id": "q-048",
+          "type": "question-multiple-choice",
+          "question": "Human Intelligence (HUMINT) in cybersecurity contexts typically involves:",
+          "answers": [
+            {
+              "id": "a-048-a",
+              "answer": "Automated sensor data collection"
+            },
+            {
+              "id": "a-048-b",
+              "answer": "Information from human sources and interactions"
+            },
+            {
+              "id": "a-048-c",
+              "answer": "Satellite imagery analysis"
+            },
+            {
+              "id": "a-048-d",
+              "answer": "Network packet inspection only"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-049",
+      "items": [
+        {
+          "id": "q-049",
+          "type": "question-multiple-choice",
+          "question": "Cyber Counterintelligence (CCI) focuses on:",
+          "answers": [
+            {
+              "id": "a-049-a",
+              "answer": "Identifying and mitigating adversary intelligence operations"
+            },
+            {
+              "id": "a-049-b",
+              "answer": "Conducting offensive cyber attacks"
+            },
+            {
+              "id": "a-049-c",
+              "answer": "Marketing product features"
+            },
+            {
+              "id": "a-049-d",
+              "answer": "Installing software updates"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-050",
+      "items": [
+        {
+          "id": "q-050",
+          "type": "question-multiple-choice",
+          "question": "When performing malware analysis for intelligence purposes, the primary goal is to:",
+          "answers": [
+            {
+              "id": "a-050-a",
+              "answer": "Delete all samples immediately"
+            },
+            {
+              "id": "a-050-b",
+              "answer": "Understand capabilities, indicators, and attribution"
+            },
+            {
+              "id": "a-050-c",
+              "answer": "Distribute samples publicly"
+            },
+            {
+              "id": "a-050-d",
+              "answer": "Use malware for testing production systems"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-051",
+      "items": [
+        {
+          "id": "q-051",
+          "type": "question-multiple-choice",
+          "question": "Internal IoC collection would most likely include data from which source?",
+          "answers": [
+            {
+              "id": "a-051-a",
+              "answer": "Public threat intelligence feeds only"
+            },
+            {
+              "id": "a-051-b",
+              "answer": "Social media trending topics"
+            },
+            {
+              "id": "a-051-c",
+              "answer": "Competitor websites"
+            },
+            {
+              "id": "a-051-d",
+              "answer": "SIEM and endpoint detection logs"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-052",
+      "items": [
+        {
+          "id": "q-052",
+          "type": "question-multiple-choice",
+          "question": "External IoC collection commonly leverages:",
+          "answers": [
+            {
+              "id": "a-052-a",
+              "answer": "Only internal security tools"
+            },
+            {
+              "id": "a-052-b",
+              "answer": "Third-party feeds and community sharing"
+            },
+            {
+              "id": "a-052-c",
+              "answer": "Employee personal devices"
+            },
+            {
+              "id": "a-052-d",
+              "answer": "Unverified anonymous sources exclusively"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-053",
+      "items": [
+        {
+          "id": "q-053",
+          "type": "question-free-text",
+          "question": "What is the process of converting varied data formats into a consistent structure called?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-054",
+      "items": [
+        {
+          "id": "q-054",
+          "type": "question-multiple-choice",
+          "question": "Bulk data collection in threat intelligence refers to:",
+          "answers": [
+            {
+              "id": "a-054-a",
+              "answer": "Manual entry of individual indicators"
+            },
+            {
+              "id": "a-054-b",
+              "answer": "Collecting only executive summaries"
+            },
+            {
+              "id": "a-054-c",
+              "answer": "Large-scale automated ingestion of threat data "
+            },
+            {
+              "id": "a-054-d",
+              "answer": "Ignoring all automated sources"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-055",
+      "items": [
+        {
+          "id": "q-055",
+          "type": "question-multiple-choice",
+          "question": "Data enrichment in threat intelligence adds value by:",
+          "answers": [
+            {
+              "id": "a-055-a",
+              "answer": "Removing all contextual information"
+            },
+            {
+              "id": "a-055-b",
+              "answer": "Augmenting indicators with additional context"
+            },
+            {
+              "id": "a-055-c",
+              "answer": "Duplicating existing data points"
+            },
+            {
+              "id": "a-055-d",
+              "answer": "Encrypting all threat data"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-056",
+      "items": [
+        {
+          "id": "q-056",
+          "type": "question-multiple-choice",
+          "question": "When collecting threat data in cloud environments, which consideration is unique?",
+          "answers": [
+            {
+              "id": "a-056-a",
+              "answer": "Cloud APIs and service-specific logging"
+            },
+            {
+              "id": "a-056-b",
+              "answer": "Complete inability to collect any data"
+            },
+            {
+              "id": "a-056-c",
+              "answer": "Exclusive reliance on physical access"
+            },
+            {
+              "id": "a-056-d",
+              "answer": "No need for data normalization"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-057",
+      "items": [
+        {
+          "id": "q-057",
+          "type": "question-multiple-choice",
+          "question": "Data processing and exploitation transforms raw data by:",
+          "answers": [
+            {
+              "id": "a-057-a",
+              "answer": "Deleting all collected information"
+            },
+            {
+              "id": "a-057-b",
+              "answer": "Filtering, correlating, and preparing for analysis"
+            },
+            {
+              "id": "a-057-c",
+              "answer": "Storing without any modification"
+            },
+            {
+              "id": "a-057-d",
+              "answer": "Distributing publicly without review"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-058",
+      "items": [
+        {
+          "id": "q-058",
+          "type": "question-multiple-choice",
+          "question": "Which analytical technique helps identify patterns and trends in large threat datasets?",
+          "answers": [
+            {
+              "id": "a-058-a",
+              "answer": "Statistical analysis"
+            },
+            {
+              "id": "a-058-b",
+              "answer": "Random guessing"
+            },
+            {
+              "id": "a-058-c",
+              "answer": "Ignoring data completely"
+            },
+            {
+              "id": "a-058-d",
+              "answer": "Relying solely on intuition"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-059",
+      "items": [
+        {
+          "id": "q-059",
+          "type": "question-multiple-choice",
+          "question": "The threat analysis process should systematically include:",
+          "answers": [
+            {
+              "id": "a-059-a",
+              "answer": "Data collection, processing, evaluation, and production"
+            },
+            {
+              "id": "a-059-b",
+              "answer": "Only automated tool outputs"
+            },
+            {
+              "id": "a-059-c",
+              "answer": "Random sampling without method"
+            },
+            {
+              "id": "a-059-d",
+              "answer": "Gut feelings exclusively"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-060",
+      "items": [
+        {
+          "id": "q-060",
+          "type": "question-free-text",
+          "question": "What structured method evaluates competing explanations for observed threat activity?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-061",
+      "items": [
+        {
+          "id": "q-061",
+          "type": "question-multiple-choice",
+          "question": "Threat modeling helps organizations:",
+          "answers": [
+            {
+              "id": "a-061-a",
+              "answer": "Understand potential attack scenarios and prioritize defenses"
+            },
+            {
+              "id": "a-061-b",
+              "answer": "Eliminate all security controls"
+            },
+            {
+              "id": "a-061-c",
+              "answer": "Focus only on compliance requirements"
+            },
+            {
+              "id": "a-061-d",
+              "answer": "Ignore business context completely"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-062",
+      "items": [
+        {
+          "id": "q-062",
+          "type": "question-multiple-choice",
+          "question": "Structured analytical techniques provide which advantage over informal analysis?",
+          "answers": [
+            {
+              "id": "a-062-a",
+              "answer": "Complete elimination of human judgment"
+            },
+            {
+              "id": "a-062-b",
+              "answer": "Reduced cognitive bias and transparency"
+            },
+            {
+              "id": "a-062-c",
+              "answer": "Guaranteed perfect predictions"
+            },
+            {
+              "id": "a-062-d",
+              "answer": "Slower analysis with no benefits"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-063",
+      "items": [
+        {
+          "id": "q-063",
+          "type": "question-multiple-choice",
+          "question": "Statistical analysis of threat data is most useful for:",
+          "answers": [
+            {
+              "id": "a-063-a",
+              "answer": "Replacing all human analysis"
+            },
+            {
+              "id": "a-063-b",
+              "answer": "Ensuring 100% accuracy always"
+            },
+            {
+              "id": "a-063-c",
+              "answer": "Avoiding any data collection"
+            },
+            {
+              "id": "a-063-d",
+              "answer": "Identifying anomalies and trends"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-064",
+      "items": [
+        {
+          "id": "q-064",
+          "type": "question-multiple-choice",
+          "question": "Analysis of Competing Hypotheses (ACH) helps mitigate which analytical challenge?",
+          "answers": [
+            {
+              "id": "a-064-a",
+              "answer": "Lack of any data sources"
+            },
+            {
+              "id": "a-064-b",
+              "answer": "Confirmation bias and premature conclusions"
+            },
+            {
+              "id": "a-064-c",
+              "answer": "Excessive processing power"
+            },
+            {
+              "id": "a-064-d",
+              "answer": "Too many accurate predictions"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-065",
+      "items": [
+        {
+          "id": "q-065",
+          "type": "question-multiple-choice",
+          "question": "Structured ACH (SACH) differs from traditional ACH by:",
+          "answers": [
+            {
+              "id": "a-065-a",
+              "answer": "Adding formalized weighting and scoring "
+            },
+            {
+              "id": "a-065-b",
+              "answer": "Eliminating all hypotheses immediately"
+            },
+            {
+              "id": "a-065-c",
+              "answer": "Removing analytical rigor"
+            },
+            {
+              "id": "a-065-d",
+              "answer": "Using only automated tools"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-066",
+      "items": [
+        {
+          "id": "q-066",
+          "type": "question-multiple-choice",
+          "question": "Fine-tuning threat analysis involves:",
+          "answers": [
+            {
+              "id": "a-066-a",
+              "answer": "Continuous refinement based on feedback"
+            },
+            {
+              "id": "a-066-b",
+              "answer": "Never adjusting initial assessments"
+            },
+            {
+              "id": "a-066-c",
+              "answer": "Ignoring new information"
+            },
+            {
+              "id": "a-066-d",
+              "answer": "Using outdated methodologies only"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-067",
+      "items": [
+        {
+          "id": "q-067",
+          "type": "question-multiple-choice",
+          "question": "Evaluating produced intelligence should assess:",
+          "answers": [
+            {
+              "id": "a-067-a",
+              "answer": "Accuracy, relevance, and timeliness"
+            },
+            {
+              "id": "a-067-b",
+              "answer": "Document length exclusively"
+            },
+            {
+              "id": "a-067-c",
+              "answer": "Number of acronyms used"
+            },
+            {
+              "id": "a-067-d",
+              "answer": "Font size and formatting"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-068",
+      "items": [
+        {
+          "id": "q-068",
+          "type": "question-free-text",
+          "question": "What is a documented procedure for handling specific threat scenarios called?",
+          "match_type": "regex",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-069",
+      "items": [
+        {
+          "id": "q-069",
+          "type": "question-multiple-choice",
+          "question": "Creating runbooks for analysis ensures:",
+          "answers": [
+            {
+              "id": "a-069-a",
+              "answer": "Complete automation without human input"
+            },
+            {
+              "id": "a-069-b",
+              "answer": "Consistency and repeatability in processes"
+            },
+            {
+              "id": "a-069-c",
+              "answer": "Elimination of all documentation"
+            },
+            {
+              "id": "a-069-d",
+              "answer": "Reduced analytical capability"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-070",
+      "items": [
+        {
+          "id": "q-070",
+          "type": "question-multiple-choice",
+          "question": "A knowledge base in threat intelligence serves to:",
+          "answers": [
+            {
+              "id": "a-070-a",
+              "answer": "Store and organize historical intelligence"
+            },
+            {
+              "id": "a-070-b",
+              "answer": "Replace all current analysis"
+            },
+            {
+              "id": "a-070-c",
+              "answer": "Delete outdated information immediately"
+            },
+            {
+              "id": "a-070-d",
+              "answer": "Prevent any new data collection"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-071",
+      "items": [
+        {
+          "id": "q-071",
+          "type": "question-multiple-choice",
+          "question": "Which tool category is specifically designed for threat intelligence platform capabilities?",
+          "answers": [
+            {
+              "id": "a-071-a",
+              "answer": "General productivity software"
+            },
+            {
+              "id": "a-071-b",
+              "answer": "TIPs (Threat Intelligence Platforms)"
+            },
+            {
+              "id": "a-071-c",
+              "answer": "Word processors"
+            },
+            {
+              "id": "a-071-d",
+              "answer": "Spreadsheet applications"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-072",
+      "items": [
+        {
+          "id": "q-072",
+          "type": "question-multiple-choice",
+          "question": "Intelligence reports should be tailored to:",
+          "answers": [
+            {
+              "id": "a-072-a",
+              "answer": "Use identical format for all audiences"
+            },
+            {
+              "id": "a-072-b",
+              "answer": "Audience expertise and information needs"
+            },
+            {
+              "id": "a-072-c",
+              "answer": "Maximize technical jargon always"
+            },
+            {
+              "id": "a-072-d",
+              "answer": "Include unrelated topics"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-073",
+      "items": [
+        {
+          "id": "q-073",
+          "type": "question-multiple-choice",
+          "question": "Effective report writing techniques include:",
+          "answers": [
+            {
+              "id": "a-073-a",
+              "answer": "Clear structure, actionable insights, and conciseness"
+            },
+            {
+              "id": "a-073-b",
+              "answer": "Verbose text without conclusions"
+            },
+            {
+              "id": "a-073-c",
+              "answer": "Technical details only for executives"
+            },
+            {
+              "id": "a-073-d",
+              "answer": "Ambiguous recommendations"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-074",
+      "items": [
+        {
+          "id": "q-074",
+          "type": "question-multiple-choice",
+          "question": "Dissemination of intelligence reports should consider:",
+          "answers": [
+            {
+              "id": "a-074-a",
+              "answer": "Classification level and need-to-know"
+            },
+            {
+              "id": "a-074-b",
+              "answer": "Public distribution without restrictions"
+            },
+            {
+              "id": "a-074-c",
+              "answer": "Sharing with unauthorized parties"
+            },
+            {
+              "id": "a-074-d",
+              "answer": "Ignoring data protection requirements"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-075",
+      "items": [
+        {
+          "id": "q-075",
+          "type": "question-free-text",
+          "question": "What programming language is commonly used for automating threat intelligence tasks?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-076",
+      "items": [
+        {
+          "id": "q-076",
+          "type": "question-multiple-choice",
+          "question": "Using scripting for intelligence sharing enables:",
+          "answers": [
+            {
+              "id": "a-076-a",
+              "answer": "Manual processes exclusively"
+            },
+            {
+              "id": "a-076-b",
+              "answer": "Automated, consistent data exchange"
+            },
+            {
+              "id": "a-076-c",
+              "answer": "Reduced efficiency"
+            },
+            {
+              "id": "a-076-d",
+              "answer": "Increased human error"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-077",
+      "items": [
+        {
+          "id": "q-077",
+          "type": "question-multiple-choice",
+          "question": "Which protocol is commonly used for structured threat information sharing?",
+          "answers": [
+            {
+              "id": "a-077-a",
+              "answer": "FTP only"
+            },
+            {
+              "id": "a-077-b",
+              "answer": "STIX/TAXII"
+            },
+            {
+              "id": "a-077-c",
+              "answer": "SMTP exclusively"
+            },
+            {
+              "id": "a-077-d",
+              "answer": "Telnet"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-078",
+      "items": [
+        {
+          "id": "q-078",
+          "type": "question-multiple-choice",
+          "question": "Implementing threat intelligence in cloud requires understanding:",
+          "answers": [
+            {
+              "id": "a-078-a",
+              "answer": "Only on-premises architectures"
+            },
+            {
+              "id": "a-078-b",
+              "answer": "Cloud-native services and APIs"
+            },
+            {
+              "id": "a-078-c",
+              "answer": "Physical hardware exclusively"
+            },
+            {
+              "id": "a-078-d",
+              "answer": "Legacy mainframe systems"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-079",
+      "items": [
+        {
+          "id": "q-079",
+          "type": "question-multiple-choice",
+          "question": "Threat hunting fundamentals focus on:",
+          "answers": [
+            {
+              "id": "a-079-a",
+              "answer": "Reactive alert response only"
+            },
+            {
+              "id": "a-079-b",
+              "answer": "Proactive search for hidden threats"
+            },
+            {
+              "id": "a-079-c",
+              "answer": "Waiting for incidents to occur"
+            },
+            {
+              "id": "a-079-d",
+              "answer": "Ignoring security logs completely"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-080",
+      "items": [
+        {
+          "id": "q-080",
+          "type": "question-free-text",
+          "question": "What is the proactive search for threats that evade existing security controls called?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-081",
+      "items": [
+        {
+          "id": "q-081",
+          "type": "question-multiple-choice",
+          "question": "Which threat hunting type uses specific indicators to search for known threats?",
+          "answers": [
+            {
+              "id": "a-081-a",
+              "answer": "Hypothesis-driven hunting"
+            },
+            {
+              "id": "a-081-b",
+              "answer": "IoC-based hunting"
+            },
+            {
+              "id": "a-081-c",
+              "answer": "Random exploration"
+            },
+            {
+              "id": "a-081-d",
+              "answer": "Unstructured browsing"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-082",
+      "items": [
+        {
+          "id": "q-082",
+          "type": "question-multiple-choice",
+          "question": "The threat hunting process typically begins with:",
+          "answers": [
+            {
+              "id": "a-082-a",
+              "answer": "Immediate remediation actions"
+            },
+            {
+              "id": "a-082-b",
+              "answer": "Deleting all security logs"
+            },
+            {
+              "id": "a-082-c",
+              "answer": "Hypothesis or trigger formulation"
+            },
+            {
+              "id": "a-082-d",
+              "answer": "Disabling detection systems"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-083",
+      "items": [
+        {
+          "id": "q-083",
+          "type": "question-multiple-choice",
+          "question": "The threat hunting loop emphasizes which continuous activity?",
+          "answers": [
+            {
+              "id": "a-083-a",
+              "answer": "One-time assessment only"
+            },
+            {
+              "id": "a-083-b",
+              "answer": "Iterative investigation and refinement"
+            },
+            {
+              "id": "a-083-c",
+              "answer": "Static procedures without change"
+            },
+            {
+              "id": "a-083-d",
+              "answer": "Ignoring findings"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-084",
+      "items": [
+        {
+          "id": "q-084",
+          "type": "question-multiple-choice",
+          "question": "Which methodology combines threat intelligence with hunting activities?",
+          "answers": [
+            {
+              "id": "a-084-a",
+              "answer": "Intelligence-driven hunting"
+            },
+            {
+              "id": "a-084-b",
+              "answer": "Blind searching without context"
+            },
+            {
+              "id": "a-084-c",
+              "answer": "Compliance-only audits"
+            },
+            {
+              "id": "a-084-d",
+              "answer": "Random system scans"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-085",
+      "items": [
+        {
+          "id": "q-085",
+          "type": "question-multiple-choice",
+          "question": "Python is valuable for threat hunting automation because it:",
+          "answers": [
+            {
+              "id": "a-085-a",
+              "answer": "Cannot integrate with security tools"
+            },
+            {
+              "id": "a-085-b",
+              "answer": "Offers extensive libraries and API integration"
+            },
+            {
+              "id": "a-085-c",
+              "answer": "Only works on legacy systems"
+            },
+            {
+              "id": "a-085-d",
+              "answer": "Requires no programming knowledge"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-086",
+      "items": [
+        {
+          "id": "q-086",
+          "type": "question-multiple-choice",
+          "question": "How does threat intelligence enhance SOC operations?",
+          "answers": [
+            {
+              "id": "a-086-a",
+              "answer": "Replaces all human analysts"
+            },
+            {
+              "id": "a-086-b",
+              "answer": "Provides context for alert prioritization"
+            },
+            {
+              "id": "a-086-c",
+              "answer": "Eliminates need for monitoring"
+            },
+            {
+              "id": "a-086-d",
+              "answer": "Increases false positives intentionally"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-087",
+      "items": [
+        {
+          "id": "q-087",
+          "type": "question-free-text",
+          "question": "What is the acronym for the process of responding to security breaches?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-088",
+      "items": [
+        {
+          "id": "q-088",
+          "type": "question-multiple-choice",
+          "question": "Integrating threat intelligence with incident response enables:",
+          "answers": [
+            {
+              "id": "a-088-a",
+              "answer": "Slower response times"
+            },
+            {
+              "id": "a-088-b",
+              "answer": "Faster, more informed decision-making"
+            },
+            {
+              "id": "a-088-c",
+              "answer": "Complete automation without validation"
+            },
+            {
+              "id": "a-088-d",
+              "answer": "Reduced situational awareness"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-089",
+      "items": [
+        {
+          "id": "q-089",
+          "type": "question-multiple-choice",
+          "question": "Threat intelligence supports risk management by:",
+          "answers": [
+            {
+              "id": "a-089-a",
+              "answer": "Identifying and quantifying threat landscapes"
+            },
+            {
+              "id": "a-089-b",
+              "answer": "Eliminating all organizational risk"
+            },
+            {
+              "id": "a-089-c",
+              "answer": "Replacing risk assessment entirely"
+            },
+            {
+              "id": "a-089-d",
+              "answer": "Ignoring business impact"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-090",
+      "items": [
+        {
+          "id": "q-090",
+          "type": "question-multiple-choice",
+          "question": "Python facilitates data collection in threat intelligence through:",
+          "answers": [
+            {
+              "id": "a-090-a",
+              "answer": "Manual copy-paste operations only"
+            },
+            {
+              "id": "a-090-b",
+              "answer": "API requests and web scraping capabilities"
+            },
+            {
+              "id": "a-090-c",
+              "answer": "Inability to parse data formats"
+            },
+            {
+              "id": "a-090-d",
+              "answer": "Exclusive reliance on GUI tools"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-091",
+      "items": [
+        {
+          "id": "q-091",
+          "type": "question-multiple-choice",
+          "question": "When using Python for data analysis, which library is commonly used for data manipulation?",
+          "answers": [
+            {
+              "id": "a-091-a",
+              "answer": "Pandas"
+            },
+            {
+              "id": "a-091-b",
+              "answer": "Photoshop"
+            },
+            {
+              "id": "a-091-c",
+              "answer": "Microsoft Word"
+            },
+            {
+              "id": "a-091-d",
+              "answer": "PowerPoint"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-092",
+      "items": [
+        {
+          "id": "q-092",
+          "type": "question-multiple-choice",
+          "question": "Effective threat intelligence feed management requires:",
+          "answers": [
+            {
+              "id": "a-092-a",
+              "answer": "Accepting all feeds without evaluation"
+            },
+            {
+              "id": "a-092-b",
+              "answer": "Regular assessment of feed quality and relevance"
+            },
+            {
+              "id": "a-092-c",
+              "answer": "Using only free sources"
+            },
+            {
+              "id": "a-092-d",
+              "answer": "Ignoring feed freshness"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-093",
+      "items": [
+        {
+          "id": "q-093",
+          "type": "question-multiple-choice",
+          "question": "Real-time attack indicators are most valuable for:",
+          "answers": [
+            {
+              "id": "a-093-a",
+              "answer": "Historical trend analysis only"
+            },
+            {
+              "id": "a-093-b",
+              "answer": "Compliance reporting exclusively"
+            },
+            {
+              "id": "a-093-c",
+              "answer": "Long-term strategic planning"
+            },
+            {
+              "id": "a-093-d",
+              "answer": "Immediate detection and response "
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-094",
+      "items": [
+        {
+          "id": "q-094",
+          "type": "question-multiple-choice",
+          "question": "Proactive detection using threat intelligence involves:",
+          "answers": [
+            {
+              "id": "a-094-a",
+              "answer": "Waiting for alerts to trigger"
+            },
+            {
+              "id": "a-094-b",
+              "answer": "Anticipating and searching for emerging threats"
+            },
+            {
+              "id": "a-094-c",
+              "answer": "Reactive response only"
+            },
+            {
+              "id": "a-094-d",
+              "answer": "Ignoring intelligence feeds"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-095",
+      "items": [
+        {
+          "id": "q-095",
+          "type": "question-free-text",
+          "question": "What framework maps adversary tactics across the attack lifecycle?",
+          "match_type": "regex",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-096",
+      "items": [
+        {
+          "id": "q-096",
+          "type": "question-multiple-choice",
+          "question": "Using attack frameworks in intelligence helps to:",
+          "answers": [
+            {
+              "id": "a-096-a",
+              "answer": "Standardize threat actor behavior understanding"
+            },
+            {
+              "id": "a-096-b",
+              "answer": "Confuse defensive strategies"
+            },
+            {
+              "id": "a-096-c",
+              "answer": "Eliminate need for analysis"
+            },
+            {
+              "id": "a-096-d",
+              "answer": "Replace all security controls"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-097",
+      "items": [
+        {
+          "id": "1bc3cdbe-7c9d-4326-b182-644cb4552708",
+          "type": "text",
+          "markdown": "<img\n  src=\"https://images.coursestack.com/92f9ada1-f557-450f-a21f-8ae56c42bb0f/8ad7de8c-8e3b-4ea8-b935-bb911cd40dd2\"\n  alt=\"\"\n  width=\"\"\n  height=\"\"\n/>\n"
+        },
+        {
+          "id": "q-097",
+          "type": "question-multiple-choice",
+          "question": "This technique helps intelligence teams:",
+          "answers": [
+            {
+              "id": "a-097-a",
+              "answer": "Avoid all prioritization decisions"
+            },
+            {
+              "id": "a-097-b",
+              "answer": "Categorize requirements by importance"
+            },
+            {
+              "id": "a-097-c",
+              "answer": "Treat all requirements equally"
+            },
+            {
+              "id": "a-097-d",
+              "answer": "Eliminate stakeholder input"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-098",
+      "items": [
+        {
+          "id": "q-098",
+          "type": "question-multiple-choice",
+          "question": "Rules of engagement for intelligence collection establish:",
+          "answers": [
+            {
+              "id": "a-098-a",
+              "answer": "Unrestricted access to all systems"
+            },
+            {
+              "id": "a-098-b",
+              "answer": "Ethical and legal boundaries"
+            },
+            {
+              "id": "a-098-c",
+              "answer": "Complete secrecy from leadership"
+            },
+            {
+              "id": "a-098-d",
+              "answer": "Elimination of oversight"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-099",
+      "items": [
+        {
+          "id": "q-099",
+          "type": "question-multiple-choice",
+          "question": "Threat intelligence-led security testing uses intelligence to:",
+          "answers": [
+            {
+              "id": "a-099-a",
+              "answer": "Conduct generic vulnerability scans only"
+            },
+            {
+              "id": "a-099-b",
+              "answer": "Simulate realistic adversary techniques"
+            },
+            {
+              "id": "a-099-c",
+              "answer": "Avoid any testing activities"
+            },
+            {
+              "id": "a-099-d",
+              "answer": "Replace all penetration testing"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-100",
+      "items": [
+        {
+          "id": "q-100",
+          "type": "question-multiple-choice",
+          "question": "Intelligence supports strategic planning by providing:",
+          "answers": [
+            {
+              "id": "a-100-a",
+              "answer": "Only technical implementation details"
+            },
+            {
+              "id": "a-100-b",
+              "answer": "Exclusively historical data"
+            },
+            {
+              "id": "a-100-c",
+              "answer": "Unrelated business metrics"
+            },
+            {
+              "id": "a-100-d",
+              "answer": "Threat landscape insights for decision-making "
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-101",
+      "items": [
+        {
+          "id": "q-101",
+          "type": "question-multiple-choice",
+          "question": "Organizational defense benefits from threat intelligence through:",
+          "answers": [
+            {
+              "id": "a-101-a",
+              "answer": "Informed prioritization of security investments"
+            },
+            {
+              "id": "a-101-b",
+              "answer": "Random control deployment"
+            },
+            {
+              "id": "a-101-c",
+              "answer": "Ignoring emerging threats"
+            },
+            {
+              "id": "a-101-d",
+              "answer": "Exclusive focus on compliance"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-102",
+      "items": [
+        {
+          "id": "q-102",
+          "type": "question-multiple-choice",
+          "question": "Assessing threat intelligence maturity involves evaluating:",
+          "answers": [
+            {
+              "id": "a-102-a",
+              "answer": "Number of tools purchased only"
+            },
+            {
+              "id": "a-102-b",
+              "answer": "Capabilities, processes, and integration"
+            },
+            {
+              "id": "a-102-c",
+              "answer": "Team size exclusively"
+            },
+            {
+              "id": "a-102-d",
+              "answer": "Marketing material quality"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-103",
+      "items": [
+        {
+          "id": "q-103",
+          "type": "question-free-text",
+          "question": "What are measurable values demonstrating program effectiveness called?",
+          "match_type": "regex",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-104",
+      "items": [
+        {
+          "id": "q-104",
+          "type": "question-multiple-choice",
+          "question": "Performance indicators for intelligence programs should measure:",
+          "answers": [
+            {
+              "id": "a-104-a",
+              "answer": "Activity volume without quality assessment"
+            },
+            {
+              "id": "a-104-b",
+              "answer": "Impact, accuracy, and timeliness"
+            },
+            {
+              "id": "a-104-c",
+              "answer": "Budget expenditure only"
+            },
+            {
+              "id": "a-104-d",
+              "answer": "Team morale exclusively"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-105",
+      "items": [
+        {
+          "id": "q-105",
+          "type": "question-multiple-choice",
+          "question": "Continuous planning and review ensures intelligence programs:",
+          "answers": [
+            {
+              "id": "a-105-a",
+              "answer": "Remain static and unchanging"
+            },
+            {
+              "id": "a-105-b",
+              "answer": "Adapt to evolving threats and needs"
+            },
+            {
+              "id": "a-105-c",
+              "answer": "Operate without stakeholder input"
+            },
+            {
+              "id": "a-105-d",
+              "answer": "Avoid any process improvements"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-106",
+      "items": [
+        {
+          "id": "q-106",
+          "type": "question-multiple-choice",
+          "question": "During incident response, threat intelligence contributes by:",
+          "answers": [
+            {
+              "id": "a-106-a",
+              "answer": "Slowing down investigation processes"
+            },
+            {
+              "id": "a-106-b",
+              "answer": "Replacing forensic analysis"
+            },
+            {
+              "id": "a-106-c",
+              "answer": "Providing context about adversary methods "
+            },
+            {
+              "id": "a-106-d",
+              "answer": "Eliminating need for containment"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-107",
+      "items": [
+        {
+          "id": "q-107",
+          "type": "question-multiple-choice",
+          "question": "Threat hunting playbooks document:",
+          "answers": [
+            {
+              "id": "a-107-a",
+              "answer": "Structured approaches for specific hunt scenarios "
+            },
+            {
+              "id": "a-107-b",
+              "answer": "Unrelated business processes"
+            },
+            {
+              "id": "a-107-c",
+              "answer": "Marketing strategies"
+            },
+            {
+              "id": "a-107-d",
+              "answer": "Employee performance reviews"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-108",
+      "items": [
+        {
+          "id": "q-108",
+          "type": "question-multiple-choice",
+          "question": "Intelligence-driven attack prevention focuses on:",
+          "answers": [
+            {
+              "id": "a-108-a",
+              "answer": "Implementing controls based on threat knowledge"
+            },
+            {
+              "id": "a-108-b",
+              "answer": "Random security measure deployment"
+            },
+            {
+              "id": "a-108-c",
+              "answer": "Ignoring known attack patterns"
+            },
+            {
+              "id": "a-108-d",
+              "answer": "Exclusively reactive measures"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-109",
+      "items": [
+        {
+          "id": "q-109",
+          "type": "question-multiple-choice",
+          "question": "Automated OSINT tools provide advantages in:",
+          "answers": [
+            {
+              "id": "a-109-a",
+              "answer": "Replacing all human analysis"
+            },
+            {
+              "id": "a-109-b",
+              "answer": "Scaling collection across multiple sources"
+            },
+            {
+              "id": "a-109-c",
+              "answer": "Guaranteeing 100% accuracy"
+            },
+            {
+              "id": "a-109-d",
+              "answer": "Eliminating need for validation"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-110",
+      "items": [
+        {
+          "id": "q-110",
+          "type": "question-free-text",
+          "question": "What type of feed provides indicators related to malicious software?",
+          "match_type": "exact",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-111",
+      "items": [
+        {
+          "id": "q-111",
+          "type": "question-multiple-choice",
+          "question": "Integrating malware threat feeds enables:",
+          "answers": [
+            {
+              "id": "a-111-a",
+              "answer": "Automated blocking of known malicious indicators"
+            },
+            {
+              "id": "a-111-b",
+              "answer": "Increased malware propagation"
+            },
+            {
+              "id": "a-111-c",
+              "answer": "Disabling antivirus solutions"
+            },
+            {
+              "id": "a-111-d",
+              "answer": "Ignoring signature updates"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-112",
+      "items": [
+        {
+          "id": "q-112",
+          "type": "question-multiple-choice",
+          "question": "Effective integration of threat intelligence with internal security controls requires:",
+          "answers": [
+            {
+              "id": "a-112-a",
+              "answer": "Keeping systems completely isolated"
+            },
+            {
+              "id": "a-112-b",
+              "answer": "API connectivity and automated workflows"
+            },
+            {
+              "id": "a-112-c",
+              "answer": "Manual data entry exclusively"
+            },
+            {
+              "id": "a-112-d",
+              "answer": "Ignoring existing infrastructure"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-113",
+      "items": [
+        {
+          "id": "8ffc3fa4-4b5b-4c08-bb5d-6b6e17f6be95",
+          "type": "text",
+          "markdown": "<img\n  src=\"https://images.coursestack.com/92f9ada1-f557-450f-a21f-8ae56c42bb0f/50960b58-ea0b-4918-89cc-c98fc0f87ac5\"\n  alt=\"\"\n  width=\"\"\n  height=\"\"\n/>\n"
+        },
+        {
+          "id": "q-113",
+          "type": "question-multiple-choice",
+          "question": "This framework helps analysts:",
+          "answers": [
+            {
+              "id": "a-113-a",
+              "answer": "Map observed behaviors to known techniques"
+            },
+            {
+              "id": "a-113-b",
+              "answer": "Ignore adversary tactics"
+            },
+            {
+              "id": "a-113-c",
+              "answer": "Focus only on perimeter defenses"
+            },
+            {
+              "id": "a-113-d",
+              "answer": "Eliminate need for threat hunting"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-114",
+      "items": [
+        {
+          "id": "q-114",
+          "type": "question-multiple-choice",
+          "question": "When intelligence indicates an APT targeting your industry, the appropriate response is:",
+          "answers": [
+            {
+              "id": "a-114-a",
+              "answer": "Ignore the information"
+            },
+            {
+              "id": "a-114-b",
+              "answer": "Assess organizational exposure and enhance defenses"
+            },
+            {
+              "id": "a-114-c",
+              "answer": "Panic without planning"
+            },
+            {
+              "id": "a-114-d",
+              "answer": "Disable all security systems"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-115",
+      "items": [
+        {
+          "id": "q-115",
+          "type": "question-multiple-choice",
+          "question": "Operational intelligence primarily supports:",
+          "answers": [
+            {
+              "id": "a-115-a",
+              "answer": "Long-term strategic vision only"
+            },
+            {
+              "id": "a-115-b",
+              "answer": "Historical analysis exclusively"
+            },
+            {
+              "id": "a-115-c",
+              "answer": "Ongoing security operations and campaigns "
+            },
+            {
+              "id": "a-115-d",
+              "answer": "Marketing initiatives"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-116",
+      "items": [
+        {
+          "id": "q-116",
+          "type": "question-multiple-choice",
+          "question": "Technical intelligence focuses on:",
+          "answers": [
+            {
+              "id": "a-116-a",
+              "answer": "Business strategy and market trends"
+            },
+            {
+              "id": "a-116-b",
+              "answer": "Financial forecasting"
+            },
+            {
+              "id": "a-116-c",
+              "answer": "Human resources planning"
+            },
+            {
+              "id": "a-116-d",
+              "answer": "Specific technical indicators and malware artifacts "
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-117",
+      "items": [
+        {
+          "id": "q-117",
+          "type": "question-multiple-choice",
+          "question": "The Diamond Model's infrastructure component includes:",
+          "answers": [
+            {
+              "id": "a-117-a",
+              "answer": "Command and control servers and tools"
+            },
+            {
+              "id": "a-117-b",
+              "answer": "Victim organization structure"
+            },
+            {
+              "id": "a-117-c",
+              "answer": "Analyst skill levels"
+            },
+            {
+              "id": "a-117-d",
+              "answer": "Budget allocations"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-118",
+      "items": [
+        {
+          "id": "q-118",
+          "type": "question-free-text",
+          "question": "What structured language is used for describing threat information in a standardized way?",
+          "match_type": "regex",
+          "hint": null,
+          "hasHint": false,
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-119",
+      "items": [
+        {
+          "id": "9277a4b6-ec68-47db-b6e1-612b543a9d5e",
+          "type": "text",
+          "markdown": "<img\n  src=\"https://images.coursestack.com/92f9ada1-f557-450f-a21f-8ae56c42bb0f/73d39878-0a94-4945-8cc6-ff6fca62a6e3\"\n  alt=\"\"\n  width=\"\"\n  height=\"\"\n/>\n"
+        },
+        {
+          "id": "q-119",
+          "type": "question-multiple-choice",
+          "question": "Which phase connects back to planning for continuous improvement?",
+          "answers": [
+            {
+              "id": "a-119-a",
+              "answer": "Collection"
+            },
+            {
+              "id": "a-119-b",
+              "answer": "Processing"
+            },
+            {
+              "id": "a-119-c",
+              "answer": "Feedback"
+            },
+            {
+              "id": "a-119-d",
+              "answer": "Initial planning"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "page-120",
+      "items": [
+        {
+          "id": "q-120",
+          "type": "question-multiple-choice",
+          "question": "A mature threat intelligence program demonstrates which characteristic?",
+          "answers": [
+            {
+              "id": "a-120-a",
+              "answer": "Integrated workflows with measurable outcomes "
+            },
+            {
+              "id": "a-120-b",
+              "answer": "Ad-hoc processes without documentation"
+            },
+            {
+              "id": "a-120-c",
+              "answer": "Complete reliance on external vendors"
+            },
+            {
+              "id": "a-120-d",
+              "answer": "Resistance to change and improvement"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "147b726a-afbd-4e68-90ef-280e8bec6772",
+      "items": [
+        {
+          "id": "855dbb53-97fb-4c69-8876-01e34d317c95",
+          "type": "text",
+          "markdown": "### Python Code\n\n```python\nioc_list = [\n    \"8.8.8.8\",\n    \"malicious-domain.example\",\n    \"44d88612fea8a8f36de82e1278abb02f\",\n    \"http://bad-site.example/login\"\n]\n\ndef classify_ioc(ioc):\n    if ioc.count(\".\") == 3 and ioc.replace(\".\", \"\").isdigit():\n        return \"IP Address\"\n    elif ioc.startswith(\"http\"):\n        return \"URL\"\n    elif len(ioc) == 32:\n        return \"MD5 Hash\"\n    else:\n        return \"Domain\"\n\nfor ioc in ioc_list:\n    print(ioc, \"->\", classify_ioc(ioc))`\n```"
+        },
+        {
+          "id": "61f5711b-bd67-46fa-8a5e-2f37444aa333",
+          "type": "question-multiple-choice",
+          "question": "What is the primary Threat Intelligence benefit of normalizing and classifying IOCs before analysis?",
+          "answers": [
+            {
+              "id": "c807b83d-c806-4a5a-baa3-4fb5967c7fb6",
+              "answer": "To improve malware execution speed"
+            },
+            {
+              "id": "d06ad7bd-e0d0-4407-b1d8-e3da4beae1e6",
+              "answer": "To encrypt sensitive indicators"
+            },
+            {
+              "id": "e98e07ee-2b7e-42a9-b9e0-7720d7f74d33",
+              "answer": "To enable consistent correlation across multiple data sources"
+            },
+            {
+              "id": "d3029418-2b6d-4649-8347-f5d5e4f5a939",
+              "answer": "To bypass security controls"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "2924da25-c023-4c8f-beb8-6b69cc93a5a7",
+      "items": [
+        {
+          "id": "d606588f-b570-4053-babd-b69d142f4bcd",
+          "type": "text",
+          "markdown": "### Python Code\n\n```python\nioc_context = {\n    \"1.2.3.4\": {\"reputation\": \"malicious\", \"confidence\": 85},\n    \"5.6.7.8\": {\"reputation\": \"unknown\", \"confidence\": 40}\n}\n\ndef is_high_risk(ioc):\n    data = ioc_context.get(ioc)\n    if not data:\n        return False\n    return data[\"reputation\"] == \"malicious\" and data[\"confidence\"] >= 70\n\nprint(is_high_risk(\"1.2.3.4\"))\nprint(is_high_risk(\"5.6.7.8\"))\n```"
+        },
+        {
+          "id": "454dd56f-ed8e-436c-a510-4606eff7d127",
+          "type": "question-multiple-choice",
+          "question": "Why is context enrichment critical in Threat Intelligence?",
+          "answers": [
+            {
+              "id": "b26a2b22-d7b4-475f-b8b9-17d2814888bf",
+              "answer": "It replaces the need for incident response"
+            },
+            {
+              "id": "b8fa5b0d-fa26-4c16-b87d-b1390a4bf9d0",
+              "answer": "It guarantees attribution of threat actors"
+            },
+            {
+              "id": "4e21c5bd-d8f2-424e-8856-74ead4041085",
+              "answer": "It eliminates false positives entirely"
+            },
+            {
+              "id": "4c7ef949-39fc-4458-989e-418492020b8a",
+              "answer": "It transforms raw indicators into actionable intelligence"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    },
+    {
+      "id": "e9ca97fe-ba78-4f1a-b4a1-e258c279ae06",
+      "items": [
+        {
+          "id": "bc0e0059-9d76-4c8b-a656-84a419b2a694",
+          "type": "text",
+          "markdown": "### Python Code\n\n```python\npyramid_weights = {\n    \"hash\": 1,\n    \"ip\": 2,\n    \"domain\": 3,\n    \"tool\": 4,\n    \"tactic\": 5\n}\n\ndef calculate_pain_score(indicators):\n    score = 0\n    for indicator in indicators:\n        score += pyramid_weights.get(indicator, 0)\n    return score\n\nsample_indicators = [\"ip\", \"domain\", \"tool\"]\nprint(\"Pain Score:\", calculate_pain_score(sample_indicators))\n```"
+        },
+        {
+          "id": "00c8f1fb-01fe-48d1-b025-1d7594a737b5",
+          "type": "question-multiple-choice",
+          "question": "According to the Pyramid of Pain, which type of indicator causes the greatest operational impact to an adversary when disrupted?",
+          "answers": [
+            {
+              "id": "e909b7c3-484b-4eb6-a025-45b6f29401b5",
+              "answer": "File hash"
+            },
+            {
+              "id": "0b39a043-19f8-47df-a606-f07bf7256a96",
+              "answer": "IP Address"
+            },
+            {
+              "id": "c3c098ce-a3a9-413c-bffe-672da8cb31ab",
+              "answer": "TTPs"
+            },
+            {
+              "id": "0bb1fdb0-702e-4c66-9c15-76dcdd708f9a",
+              "answer": "Domain name"
+            }
+          ],
+          "state": "unanswered"
+        }
+      ]
+    }
+  ]
+}
